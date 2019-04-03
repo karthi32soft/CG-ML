@@ -1,0 +1,8 @@
+
+
+Later you require VC++ 9.0, then please get it from below link Microsoft Visual C++ 9.0 is required.
+Get it from http://aka.ms/vcpython27
+
+Then install
+
+pip install scikit-image
